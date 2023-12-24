@@ -1,8 +1,11 @@
 # BreakOut
-<img src='https://github.com/nohabean/BreakOut/blob/main/titleMenu.png' title='Home Screen' width='500px' alt='Opening Screen of the Game' />
 A version of the classic arcade game BreakOut written in Java using IntelliJ IDEA. 
 
+<img src='https://github.com/nohabean/BreakOut/blob/main/titleMenu.png' title='Home Screen' width='700px' alt='Opening Screen of the Game' />
+
 Run the Frame class to create a game. There are 4 levels, each with increasing ball speed to make the game increasingly more difficult. Hit the number on the keyboard coresponding with the difficulty as instructed. The game will start and the ball will be in play. 
+
+<img src='https://github.com/nohabean/BreakOut/blob/main/gameStart.png' title='Home Screen' width='700px' alt='Opening Screen of the Game' />
 
 Use the left and right arrow keys to move the paddle from side to side. Hit the P key to pause the game. From the pause menu, there are additional options available. Hit the R key to resume the game. Hit the N key to start a new game - this will reset the score, number of lives, and bricks to their starting values. Hit Q to quit and close the game.
 
