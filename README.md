@@ -15,6 +15,8 @@ Each brick color has a number of lives associated with it. A purple brick has on
 
 A running score will be kept during the game. Completely destroying a brick will earn the player 250 points. Downgrading a brick's number of lives (hitting a brick but not destroying it) will earn the player 50 points. Losing a life (ball falls out of play) will cost the player 100 points. 
 
+<img src='https://github.com/nohabean/BreakOut/blob/main/gameplay.png' title='Gameplay Progress' width='700px' alt='Shows a current game with altered and broken bricks and the current score and number of lives remaining.' />
+
 At the end of the game, the final score for the round will be shown. A highscore will also be kept and shown. This highscore is only valid for the current frame. If the game is quit, the highscore resets to 0.
 
 Keep the ball in play and don't let it fall below the paddle and off the screen. If you fail to catch the ball as it drops, a life will be lost. The player has a total of 4 lives - the starting ball and then 3 additional balls. Once a life is a lost, the ball will appear in its starting position. Hit the spacebar to get the ball in motion again. If all lives are lost, the player loses the game.
