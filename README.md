@@ -1,13 +1,15 @@
 # BreakOut
 A version of the classic arcade game BreakOut written in Java using IntelliJ IDEA. 
 
-<img src='https://github.com/nohabean/BreakOut/blob/main/titleMenu.png' title='Home Screen' width='700px' alt='Opening Screen of the Game' />
+<img src='https://github.com/nohabean/BreakOut/blob/main/titleMenu.png' title='Home Screen' width='700px' alt='Opening screen of the game' />
 
 Run the Frame class to create a game. There are 4 levels, each with increasing ball speed to make the game increasingly more difficult. Hit the number on the keyboard coresponding with the difficulty as instructed. The game will start and the ball will be in play. 
 
-<img src='https://github.com/nohabean/BreakOut/blob/main/gameStart.png' title='Home Screen' width='700px' alt='Opening Screen of the Game' />
+<img src='https://github.com/nohabean/BreakOut/blob/main/gameStart.png' title='New Game' width='700px' alt='The start of a new game' />
 
 Use the left and right arrow keys to move the paddle from side to side. Hit the P key to pause the game. From the pause menu, there are additional options available. Hit the R key to resume the game. Hit the N key to start a new game - this will reset the score, number of lives, and bricks to their starting values. Hit Q to quit and close the game.
+
+<img src='https://github.com/nohabean/BreakOut/blob/main/pauseScreen.png' title='Pause Screen' width='700px' alt='Pause screen shows when game is paused' />
 
 Keep the ball in play and don't let it fall below the paddle and off the screen. If you fail to catch the ball as it drops, a life will be lost. The player has a total of 4 lives - the starting ball and then 3 additional balls. Once a life is a lost, the ball will appear in its starting position. Hit the spacebar to get the ball in motion again. If all lives are lost, the player loses the game.
 
