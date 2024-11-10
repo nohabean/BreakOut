@@ -1,6 +1,11 @@
 # BreakOut
 A version of the classic arcade game BreakOut written in Java using IntelliJ IDEA. The player controls the paddle in order to keep the ball in play and break all of the bricks on the screen.
 
+#### Languages Used
+<ul>
+    <li>Java</li>
+</ul>
+
 ## Running the Game
 Download or clone the repo to your local machine. Run the Frame.java class. This will open a new game window to play the game. Scores will only save for an opened instance of the game. If the Frame.java stops running, the high score will reset.
 
