@@ -14,22 +14,22 @@ When the Frame.java class starts and the game window opens, there is a start scr
     <li>Extreme</li>
 </ol>
 
-<img src="./images/README-images/start-screen.png" alt="Start Screen" width="800px"/>
+<img src="./images/start-screen.png" alt="Start Screen" width="600px"/>
 
 Choose a difficulty option and a new game will start. The ball will start moving by default.
 
-<img src="./images/README-images/new-game.png" alt="New Game" width="800px" />
+<img src="./images/new-game.png" alt="New Game" width="600px" />
 
 ### Playing the game
 #### Movement
 Use the left arrow key (<) to move the paddle left and use the right arrow key (>) to move the paddle to the right. Move the paddle from side to side and keep the ball from falling below the bottom of the screen. If the ball falls below the bottom of the screen, the player will lose one of their lives.
 
-<img src="./images/README-images/gameplay.png" alt="Mid Gameplay" width="800px" />
+<img src="./images/gameplay.png" alt="Mid Gameplay" width="600px" />
 
 #### Player Lives
 The player has a total of 4 lives (the starting life and then 3 additional lives). The number of lives remaining is at the top of the screen. As a life is lost, a ball will be removed from this section to show the current number of lives left. If the player runs out of spare lives, there will be no balls left in the lives remaining section and the ball in play will be the player's final ball.
 
-<img src="./images/README-images/no-lives.png" alt="No Lives Remaining" width="width=800px" />
+<img src="./images/no-lives.png" alt="No Lives Remaining" width="600px" />
 
 #### Brick Health
 The goal is to keep the ball in play while breaking all of the bricks. The ball will bounce off of the bricks in order to break them. There are 7 different color bricks. Each brick has a different health level. In order to break a brick, the brick's health must be depleted, at which point the brick will be removed off the screen. If a brick with a higher health level is hit but not broken, the color of the brick will change to align with its health status. Below is a breakdown of each brick color and its health level (or how many lives the brick has):
@@ -57,7 +57,7 @@ The high score displayed after winning or losing will reflect the player's highe
 #### Pausing the Game
 There is also a pause screen available. Hit the "P" key on the keyboard to open the pause menu. 
 
-<img src="./images/README-images/pause-screen.png" alt="Pause Menu" width="800px">
+<img src="./images/pause-screen.png" alt="Pause Menu" width="600px" />
 
 On the pause menu, there are three additional options available to the player:
 <ul>
@@ -69,13 +69,13 @@ On the pause menu, there are three additional options available to the player:
 #### Game Over
 If the player fails to keep the ball in play, they lose the game. The score from the game that just ended will be displayed as well as the current high score.
 
-<img src="./images/README-images/game-over.png" alt="Game Over" width="800px" />
+<img src="./images/game-over.png" alt="Game Over" width="600px" />
 
 Pressing the "ENTER" key will return the player to the start screen so that they can select a difficulty to start a new game.
 
 #### Game Won
 If all bricks are broken (no more bricks remaining on the screen), the player wins the game. Similarly to the "Game Over" screen, the score for the round will be displayed as well as the current high score.
 
-<img src="./images/README-images/game-won.png" alt="Game Won" width="800px" />
+<img src="./images/game-won.png" alt="Game Won" width="600px" />
 
 Again, similarly to the "Game Over" screen, the player can press the "ENTER" key to return to the start screen to start a new game.
