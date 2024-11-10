@@ -1,9 +1,14 @@
 # BreakOut
 A version of the classic arcade game BreakOut written in Java using IntelliJ IDEA. The player controls the paddle in order to keep the ball in play and break all of the bricks on the screen.
 
-#### Languages Used
+### Languages Used
 <ul>
     <li>Java</li>
+</ul>
+
+### Technologies, Libraries, and IDEs Used
+<ul>
+    <li>IntelliJ IDEA</li>
 </ul>
 
 ## Running the Game
